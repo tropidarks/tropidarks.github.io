@@ -1,10 +1,15 @@
-
 body {
   background: black;
 }
 h1  {
   font-family: helvetica;
   color: white;
+  font-size: 20px;
+}
+h2  {
+  font-family: helvetica;
+  color: rbga(0, 255px, 0, 255px);
+  font-size: 10px;
 }
 #container {
   text-align: center;
