@@ -3,9 +3,10 @@ body {
   background-size: center;
 }
 h1  {
+  background-color: grey;
   font-family: helvetica;
   color: white;
-  font-size: 80px;
+  font-size: 35px;
 }
 #container {
   text-align: center;
