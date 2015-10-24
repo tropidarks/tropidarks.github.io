@@ -1,12 +1,11 @@
 body {
   background: black;
-  background-size: 600px;
 }
 h1  {
   background-color: grey;
   font-family: helvetica;
   color: white;
-  font-size: 35px;
+  font-size: 40px;
 }
 #container {
   text-align: center;
