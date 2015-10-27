@@ -3,9 +3,9 @@ body {
   background-position: cover;
 }
 h1  {
-  font-family: <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>;
+  font-family: helvetica;
   color: black;
-  font-size: 70px;
+  font-size: 90px;
 }
 #container {
   text-align: center;
