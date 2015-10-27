@@ -3,7 +3,7 @@ body {
   background-position: cover;
 }
 h1  {
-  font-family: helvetica;
+  font-family: <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>;
   color: black;
   font-size: 70px;
 }
