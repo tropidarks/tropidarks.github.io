@@ -1,5 +1,6 @@
 body {
   background: #FFE4E1;
+  background-image: 
   background-position: cover;
 }
 h1  {
@@ -7,6 +8,29 @@ h1  {
   color: black;
   font-size: 90px;
 }
+#visuals{
+  color: #FFE4E1;
+  font-size: 38px;
+  background: #fff;
+  border: 1px solid #111;
+  padding: 0px 30px;
+  display: inline-block;
+  width: 680px;
+  margin-right: 24px;
+  font-family: helvetica, arial, sans-serif;
+  height: 72px;
+  line-height: 74px;
+  vertical-align: middle;
+  box-shadow: #111 0 0 20px;
 #container {
   text-align: center;
+}
+.seydoux {
+   background-image: url('http://static1.squarespace.com/static/510e844de4b0837c157cabb1/t/5255ab81e4b086e2b6257be1/1381346177256/L%C3%A9a_Seydoux-Shelby_Duncan-02.jpg')
+}
+.sorayama {
+  background-image: url('http://news.upperplayground.com/wp-content/uploads/2015/03/hajime-sorayama-print-show-fifty24sf-0031.jpg')
+}
+.seichi {
+  background-image: url('http://pokingsmot.net/wp-content/uploads/2015/03/by-seiichi-hayashi.jpg')
 }
